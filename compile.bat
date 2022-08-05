@@ -1,0 +1,1 @@
+g++ Main.cpp Bottle.cpp GameState.cpp ResultState.cpp ScoreManager.cpp StateBase.cpp TitleState.cpp -o ColorSortPuzzle.exe
